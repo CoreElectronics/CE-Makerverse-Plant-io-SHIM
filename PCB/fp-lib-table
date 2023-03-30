@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Artwork-SoilProject")(type "KiCad")(uri "${KIPRJMOD}/artwork/artwork.pretty")(options "")(descr ""))
+)
